@@ -17,6 +17,6 @@ public class GalToLit {
         gal = 10; //начальное значение соот-т 10 галлонов
         liters = gal * 3.7854; //перевести в литры
 
-        System.out.println( + " галлонам соответсвует " + liters + " литров");
+        System.out.println(gal + " галлонам соответсвует " + liters + " литров");
     }
 }
