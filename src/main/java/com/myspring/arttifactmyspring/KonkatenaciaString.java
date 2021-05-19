@@ -1,6 +1,7 @@
-package package1;
+package com.myspring.arttifactmyspring;
 
-public class Class1dir1 {
+public class KonkatenaciaString {
+
     public static void main(String[] args) {
 
         System.out.println("Hello");

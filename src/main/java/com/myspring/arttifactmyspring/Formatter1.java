@@ -17,7 +17,7 @@ package com.myspring.arttifactmyspring;
 
 
 
-public class myOutputPrintf {
+public class Formatter1 {
     public static void main (String[] args) {
 
         System.out.print("Привет,");
