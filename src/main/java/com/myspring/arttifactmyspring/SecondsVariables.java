@@ -1,4 +1,13 @@
-package com.myspring.arttifactmyspring;
+/*
+*
+* Сколько Дней в секундах
+*
+*
+*
+ */
+
+
+ com.myspring.arttifactmyspring;
 
 public class SecondsVariables {
     public static void main(String[] args) {

@@ -5,7 +5,7 @@
 *
 * */
 
-package com.myspring.arttifactmyspring;
+package com.myspring.dirloop;
 
 import java.util.Scanner;
 
