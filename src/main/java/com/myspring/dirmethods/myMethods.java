@@ -20,6 +20,7 @@ public class myMethods {
         System.out.println("countafter = " + count + " " + count1);
 
     }
+//  Вторая реализация -  циклом while
 
 //    public static String count() {
 //        while (exampleVariableOne > 0) {
