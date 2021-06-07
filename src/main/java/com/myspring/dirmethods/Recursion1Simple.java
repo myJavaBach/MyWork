@@ -7,7 +7,7 @@
 
 package com.myspring.dirmethods;
 
-public class SimpleRecursion1 {
+public class Recursion1Simple {
 
     static void recursion (int counter) {
 

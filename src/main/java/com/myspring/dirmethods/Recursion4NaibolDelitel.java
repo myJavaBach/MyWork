@@ -8,19 +8,22 @@ package com.myspring.dirmethods;
 
 
 // Первый вариант
-public class RecursionNaibObDelitel {
+public class Recursion4NaibolDelitel {
 
     static int calculate(int a, int b) {
 
         if (a % b == 0)
             return  b;
-        else
-            return calculate(b, a % b);
+        else {
+            int z = calculate(b, a % b);
+            System.out.println(z);
+            return z;
+        }
     }
 
     public static void main(String[] args) {
 
-        System.out.println("nahojdenie naibol ob delitelja");
+        System.out.println("nahojdenie naibol delitelja");
 
         int a =676 , b = 3676;
 

@@ -8,7 +8,7 @@
 
 package com.myspring.dirmethods;
 
-public class MultiplexRecursion1 {
+public class Recursion1Multiplex {
 
     static  void recursion(int counter) {
 

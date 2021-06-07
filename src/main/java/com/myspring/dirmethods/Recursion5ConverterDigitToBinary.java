@@ -6,7 +6,7 @@
 
 package com.myspring.dirmethods;
 
-public class ConverterDigittoBinary {
+public class Recursion5ConverterDigitToBinary {
 
     static void converter(int n) {
 
